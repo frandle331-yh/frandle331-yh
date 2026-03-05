@@ -71,5 +71,8 @@ Claude APIを利用したAI会話アプリ。
 ### Tech
 Next.js / Anthropic API
 
+### URL
+https://ai-chat-app-wine-eta.vercel.app
+
 ### GitHub
 https://github.com/frandle331-yh/ai-chat-app
