@@ -71,6 +71,7 @@ https://github.com/frandle331-yh/ai-chat-app
 
 過去の株式の値動きパターンの構造をスコア化し、
 現在の銘柄が理想スコアとどれだけ近いかを分析します。
+銘柄数  ~3,800件（東証プライム/スタンダード/グロース）
 
 ### Tech
 React / TypeScript　/ J-Quants-API
