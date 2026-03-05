@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hayato Yokoshima
 
-<!--
-**frandle331-yh/frandle331-yh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webエンジニアを目指して学習しています。  
+Ruby on Railsを中心にWebアプリケーション開発を行っています。
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ruby
+- Ruby on Rails
+- JavaScript
+- React
+- PostgreSQL
+- HTML / CSS
+
+## Projects
+
+### KajiMate
+家事分担をデータで可視化するWebアプリ
+
+Tech:
+Ruby / Rails / Hotwire / PostgreSQL
+
+URL  
+https://kajimate.com
+
+GitHub  
+https://github.com/frandle331-yh/graduation_app
+
+
+### KABULENS
+日本株の構造分析を行うAI投資分析ツール(個人用)
+
+Tech:
+React / TypeScript
+
+GitHub  
+https://github.com/frandle331-yh/kabulens
+
+
+### AI Chat App
+Claude APIを利用したAI会話アプリ
+
+Tech:
+Next.js / AI API
+
+GitHub  
+https://github.com/frandle331-yh/ai-chat-app
