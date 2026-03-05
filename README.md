@@ -47,20 +47,6 @@ https://kajimate.com
 ### GitHub
 https://github.com/frandle331-yh/graduation_app
 
----
-
-## KABULENS
-
-日本株を独自スコアで評価してキュレーションを行う投資分析ツール。（完全個人利用）
-
-過去の株式の値動きパターンの構造をスコア化し、
-現在の銘柄が理想スコアとどれだけ近いかを分析します。
-
-### Tech
-React / TypeScript　/ J-Quants-API
-
-### GitHub
-https://github.com/frandle331-yh/kabulens
 
 ---
 
@@ -76,3 +62,19 @@ https://ai-chat-app-wine-eta.vercel.app
 
 ### GitHub
 https://github.com/frandle331-yh/ai-chat-app
+
+---
+
+## KABULENS
+
+日本株を独自スコアで評価してキュレーションを行う投資分析ツール。（完全個人利用）
+
+過去の株式の値動きパターンの構造をスコア化し、
+現在の銘柄が理想スコアとどれだけ近いかを分析します。
+
+### Tech
+React / TypeScript　/ J-Quants-API
+
+### GitHub
+https://github.com/frandle331-yh/kabulens
+
