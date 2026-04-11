@@ -81,6 +81,10 @@ https://github.com/frandle331-yh/kabulens-public
 
 Claude API を利用した AI 会話アプリ。
 
+---
+### Experimental
+- **Spec-Lab / BME**: Researching autonomous AI self-correction without LLM-based orchestration. [Link to Logs](https://github.com/frandle331-yh/spec-lab-bme-logs)
+
 ### Tech
 Next.js / Anthropic API
 
