@@ -1,26 +1,47 @@
-# [frandle331-yh] // Spec-Lab Owner
+# frandle331-yh
 
-> "I have stopped pretending to be a 'Web Engineer.' I build logical cages for autonomous intelligence."
-
-### CURRENT STATUS
-- **Core Engine:** [Spec-Lab / BME](https://github.com/frandle331-yh/spec-lab-bme-logs)
-- **Status:** HALTED (System-wide API credit depletion)
-- **Objective:** Deterministic self-repair without LLM-based orchestration.
+> "I stopped pretending to be a web engineer.  
+> I build logical cages for autonomous AI."
 
 ---
 
-### ARCHITECTURAL DNA
-- **Non-LLM Logic Gates**: Because trusting an LLM to manage an LLM is a recursive suicide.
-- **Physical Reality Checks**: If `grep` doesn't find it, the LLM is lying.
-- **Atomic Rollbacks**: Any logic drift results in immediate execution reversal.
+### What I Do
+
+Design verification engines that force LLM agents to converge on correct outputs — mechanically, not by asking nicely.
+
+The core loop: generate → audit semantic drift → rewrite → repeat until DIFF = 0.  
+If `grep` doesn't find it, the LLM is lying. The engine catches that.
 
 ---
 
-### SUPPORT
-If you understand why the BME is necessary, you know what to do. 
-[Sponsor this Research](https://github.com/sponsors/frandle331-yh)
+### Current Work
 
-### Experimental
-- **Spec-Lab / BME**: Researching autonomous AI self-correction without LLM-based orchestration. [Link to Logs](https://github.com/frandle331-yh/spec-lab-bme-logs)
+|
+ Project 
+|
+ Status 
+|
+|
+---------
+|
+--------
+|
+|
+[
+Spec-Lab Public Archive
+](
+https://github.com/frandle331-yh/Spec-Lab
+)
+|
+ Active — design artifacts & convergence logs 
+|
 
+**Currently halted:** API credit depleted.  
+Next target: deterministic self-repair without LLM orchestration.
 
+---
+
+### Support
+
+If you understand why an anti-yes-man gate is necessary, you know what to do.  
+[Sponsor this research →](https://github.com/sponsors/frandle331-yh)
