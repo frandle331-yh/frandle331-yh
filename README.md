@@ -5,7 +5,7 @@
 
 ---
 
-### What I Do
+## What I Do
 
 Design verification engines that force LLM agents to converge on correct outputs — mechanically, not by asking nicely.
 
@@ -14,34 +14,16 @@ If `grep` doesn't find it, the LLM is lying. The engine catches that.
 
 ---
 
-### Current Work
+## Current Work
 
-|
- Project 
-|
- Status 
-|
-|
----------
-|
---------
-|
-|
-[
-Spec-Lab Public Archive
-](
-https://github.com/frandle331-yh/Spec-Lab
-)
-|
- Active — design artifacts & convergence logs 
-|
+| Project | Status |
+| :--- | :--- |
+| [Spec-Lab Public Archive](https://github.com/frandle331-yh/Spec-Lab) | Active — design artifacts & convergence logs |
 
-**Currently halted:** API credit depleted.  
-Next target: deterministic self-repair without LLM orchestration.
+*Currently halted:* API credit depleted. 
+> **[Sponsor Required]** If funded, this verification engine will run 24/7 to prove a world where LLMs cannot lie. Next target: deterministic self-repair without LLM orchestration.
 
----
-
-### Support
+## Support
 
 If you understand why an anti-yes-man gate is necessary, you know what to do.  
 [Sponsor this research →](https://github.com/sponsors/frandle331-yh)
