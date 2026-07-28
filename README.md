@@ -15,7 +15,7 @@ Security researcher & autonomous AI infrastructure engineer.
 
 Dell Precision 7820(2×Xeon Gold 6252, 2×RTX 3060 24GB)上に24時間稼働のローカルLLM推論基盤を構築・運用。Aphrodite Engine + CUDA Graphs最適化でデコード速度を7.5倍高速化、24GiB CPU-RAM KVティアオフロードでTTFTを2.2秒→136msに短縮。複数AIワークロード間のVRAM排他制御を行う自作CLIツールも開発。
 
-**2. [Spec-Lab](https://github.com/frandle331-yh/Spec-Lab) — AI生成コード自動監査オーケストレーション**
+**2. [spec-lab](https://github.com/frandle331-yh/Spec-Lab) — AI自動監査オーケストレーション＆フラクタル状相互統治ネットワーク基盤**
 
 AIエージェントが生成・改修したコードを、独立した監査エージェントがテスト要件とドメイン制約に照らして検証するベンチマーク環境。特定条件を満たすまで、終了しない機構。
 
