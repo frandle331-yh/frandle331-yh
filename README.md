@@ -9,7 +9,7 @@ Security researcher & autonomous AI infrastructure engineer.
 
 - **nodejs/node** — mkdtempの長いプレフィックスにおけるヒープバッファオーバーフローを修正(AddressSanitizerで検出) — [PR #64770](https://github.com/nodejs/node/pull/64770)
 - **slackhq/nebula** — リレーのControlメッセージ処理におけるnilポインタ参照外れをガード — [PR #1747](https://github.com/slackhq/nebula/pull/1747)
-## 主なプロダクト・インフラ構築実績 / Infrastructure & Tooling
+## 主な自作アーキテクチャ・インフラ構築実績 / Infrastructure & Tooling
 
 **1. precision7820 — オンプレAI推論基盤**
 
