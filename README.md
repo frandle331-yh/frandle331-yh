@@ -13,7 +13,7 @@ Security researcher & autonomous AI infrastructure engineer.
 
 **1. precision7820 — オンプレAI推論基盤**
 
-Dell Precision 7820(2×Xeon Gold 6252, 2×RTX 3060 24GB)上に24時間稼働のローカルLLM推論基盤を構築・運用。Aphrodite Engine + CUDA Graphs最適化でデコード速度を7.5倍高速化、24GiB CPU-RAM KVティアオフロードでTTFTを2.2秒→136msに短縮。複数AIワークロード間のVRAM排他制御を行う自作CLIツールも開発。
+Dell Precision 7820(2×Xeon Gold 6252, 2×RTX 3060 24GB)上に24時間稼働のローカルLLM推論基盤を構築・運用。Aphrodite Engine + CUDA Graphs最適化でデコード速度を7.5倍高速化、24GiB CPU-RAM KVティアオフロードでTTFTを2.2秒→136msに短縮。複数AIワークロード間のVRAM排他制御を行う自作CLIツールも開発。現在は小コンテキストのローカルモデルでバグを検出可能なアーキテクチャの調整を行っています。
 
 **2. [build-lab/spec-lab](https://github.com/frandle331-yh/Spec-Lab) — AI自動監査オーケストレーション＆相互統治ネットワーク基盤**
 
