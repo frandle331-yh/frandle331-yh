@@ -20,7 +20,7 @@ Security researcher & autonomous AI infrastructure engineer.
 ## AIセキュリティ / AI Security
 
 - **huntr AI Challenge 1** — 株取引AIエージェントへのプロンプトインジェクションに成功（所持金を超える購入を実行させる）。突破者の一人。
-- 解説記事：[Qiita — プロンプトインジェクションは「言葉遊び」ではない](https://qiita.com/hierax_umbra/items/9bfe232771665b400d73)
+- 解説記事：[Qiita — AIエージェント時代の次世代脅威モデル「プロンプトインジェクション」と従来の脆弱性との違いについてまとめてみた](https://qiita.com/hierax_umbra/items/9bfe232771665b400d73)
 
 ## 脆弱性を見つける仕組み / How I Find Bugs
 
