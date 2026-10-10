@@ -56,6 +56,4 @@ AIが書いた・直したコードを、別の監査用エージェントがテ
 
 ## Support
 
-If you understand why an anti-yes-man gate is necessary, you know what to do.
-
 [Sponsor this research →](https://github.com/sponsors/frandle331-yh)
