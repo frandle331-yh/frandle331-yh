@@ -10,7 +10,7 @@ Security researcher & autonomous AI infrastructure engineer.
 | 対象 / Project | 内容 / Issue | 状態 / Status |
 |---|---|---|
 | **basecamp/once-campfire** | ルームメンバーが他メンバーのメッセージをライブ表示上で差し替えられる問題（Medium, CVSS 3.1: 4.3） | [GHSA-3v99-4vxh-xg84](https://github.com/basecamp/once-campfire/security/advisories/GHSA-3v99-4vxh-xg84) 公開済み・1.5.2で修正・クレジット掲載（CVE申請中） |
-| **formbricks/formbricks** | メール認証後の自動サインインを悪用したアカウント事前乗っ取り（account pre-hijacking） | 報告者として明記された修正 [PR #8971](https://github.com/formbricks/formbricks/pull/8971)・6.0.0でリリース・[リリースノート](https://github.com/formbricks/formbricks/releases)にクレジット掲載 |
+| **formbricks/formbricks** | メール認証後の自動サインインを悪用したアカウント事前乗っ取り（account pre-hijacking） | 報告者として明記された修正 [PR #8971](https://github.com/formbricks/formbricks/pull/8971)・6.0.0で修正（[リリースノート](https://github.com/formbricks/formbricks/releases/tag/6.0.0-rc.1)） |
 
 ## OSSへの修正貢献 / Upstream Fixes
 
